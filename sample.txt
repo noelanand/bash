@@ -1,0 +1,13 @@
+hello world
+linux
+bash scripting
+ubuntu
+elp       ^O Write Out  ^W Where Is   ^K Cut        ^T Execute    ^C Location   M-U Undo
+^X Exit       ^R Read File  ^\ Replace    ^U Paste      ^J Justify    ^/ Go To Line M-E Redo
+
+elp       ^O Write Out  ^W Where Is   ^K Cut        ^T Execute    ^C Location   M-U Undo
+^X Exit       ^R Read File  ^\ Replace    ^U Paste      ^J Justify    ^/ Go To Line M-E Redo
+
+
+praise the lord
+hello noel
