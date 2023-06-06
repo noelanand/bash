@@ -10,3 +10,5 @@ else
 echo "$j this is odd number"
 fi
 done
+
+echo "thank you for entering the number"
