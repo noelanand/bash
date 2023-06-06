@@ -10,3 +10,5 @@ else
 echo "$j this is odd number"
 fi
 done
+
+echo "this file is to find even and odd numbers"
